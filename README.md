@@ -27,7 +27,7 @@ Las tecnologías utilizadas durante este proyecto han sido:
 
 ## ✅ Resultado Final 
 <div id="header" align="center">
-<img width="500" alt="image" src="Screen Shot 2023-01-19 at 1.57.17 PM.png">
+<img width="500" alt="image" src="./images/readme-image.png">
 </div>
 
 Muchas gracias 🤗
