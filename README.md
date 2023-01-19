@@ -33,4 +33,4 @@ Las tecnologías utilizadas durante este proyecto han sido:
 
 
 
-Muchas gracias 🤗
+**Muchas gracias** 🤗
