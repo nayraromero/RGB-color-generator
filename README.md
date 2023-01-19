@@ -30,4 +30,7 @@ Las tecnologías utilizadas durante este proyecto han sido:
 <img width="500" alt="image" src="./images/readme-image.png">
 </div>
 
+
+
+
 Muchas gracias 🤗
